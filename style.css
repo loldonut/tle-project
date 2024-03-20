@@ -7,6 +7,8 @@ body {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+
+    background-color: #8abdd7;
 }
 
 .grid-container {
@@ -28,7 +30,7 @@ body {
 }
 
 .grid-item {
-    background-color: rgba(160, 160, 160, 0.5);
+    background-color: #d8d8d8;
     border: 1px solid rgba(0,0,0,0.8);
     padding: 10px 10px;
     font-size: 16px;
